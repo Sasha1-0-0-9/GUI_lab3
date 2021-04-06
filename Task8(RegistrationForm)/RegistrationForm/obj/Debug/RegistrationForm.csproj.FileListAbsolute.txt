@@ -1,0 +1,9 @@
+D:\oop_labs\GUI_LAB\GUI-2\Task8(RegistrationForm)\RegistrationForm\bin\Debug\RegistrationForm.exe.config
+D:\oop_labs\GUI_LAB\GUI-2\Task8(RegistrationForm)\RegistrationForm\bin\Debug\RegistrationForm.exe
+D:\oop_labs\GUI_LAB\GUI-2\Task8(RegistrationForm)\RegistrationForm\bin\Debug\RegistrationForm.pdb
+D:\oop_labs\GUI_LAB\GUI-2\Task8(RegistrationForm)\RegistrationForm\obj\Debug\RegistrationForm.Form1.resources
+D:\oop_labs\GUI_LAB\GUI-2\Task8(RegistrationForm)\RegistrationForm\obj\Debug\RegistrationForm.Properties.Resources.resources
+D:\oop_labs\GUI_LAB\GUI-2\Task8(RegistrationForm)\RegistrationForm\obj\Debug\RegistrationForm.csproj.GenerateResource.cache
+D:\oop_labs\GUI_LAB\GUI-2\Task8(RegistrationForm)\RegistrationForm\obj\Debug\RegistrationForm.csproj.CoreCompileInputs.cache
+D:\oop_labs\GUI_LAB\GUI-2\Task8(RegistrationForm)\RegistrationForm\obj\Debug\RegistrationForm.exe
+D:\oop_labs\GUI_LAB\GUI-2\Task8(RegistrationForm)\RegistrationForm\obj\Debug\RegistrationForm.pdb

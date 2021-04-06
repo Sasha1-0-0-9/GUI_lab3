@@ -1,0 +1,10 @@
+D:\oop_labs\GUI_LAB\GUI-2\Task7(WinLinkLable)\WinLinkLable\bin\Debug\WinLinkLable.exe.config
+D:\oop_labs\GUI_LAB\GUI-2\Task7(WinLinkLable)\WinLinkLable\bin\Debug\WinLinkLable.exe
+D:\oop_labs\GUI_LAB\GUI-2\Task7(WinLinkLable)\WinLinkLable\bin\Debug\WinLinkLable.pdb
+D:\oop_labs\GUI_LAB\GUI-2\Task7(WinLinkLable)\WinLinkLable\obj\Debug\WinLinkLable.Form1.resources
+D:\oop_labs\GUI_LAB\GUI-2\Task7(WinLinkLable)\WinLinkLable\obj\Debug\WinLinkLable.Form2.resources
+D:\oop_labs\GUI_LAB\GUI-2\Task7(WinLinkLable)\WinLinkLable\obj\Debug\WinLinkLable.Properties.Resources.resources
+D:\oop_labs\GUI_LAB\GUI-2\Task7(WinLinkLable)\WinLinkLable\obj\Debug\WinLinkLable.csproj.GenerateResource.cache
+D:\oop_labs\GUI_LAB\GUI-2\Task7(WinLinkLable)\WinLinkLable\obj\Debug\WinLinkLable.csproj.CoreCompileInputs.cache
+D:\oop_labs\GUI_LAB\GUI-2\Task7(WinLinkLable)\WinLinkLable\obj\Debug\WinLinkLable.exe
+D:\oop_labs\GUI_LAB\GUI-2\Task7(WinLinkLable)\WinLinkLable\obj\Debug\WinLinkLable.pdb
